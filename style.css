@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding;
+}
+
+body {
+    background: rgb(255, 128, 190);
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+
+article {
+    position: relative;
+    margin: auto;
+    background: white;
+    box-sizing: border-box;
+    padding: 30px;
+    border-radius: 50px;
+    width: 40vw;
+    margin-top: 20px;
+    
+}
